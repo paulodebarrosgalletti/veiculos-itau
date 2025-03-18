@@ -9,8 +9,25 @@
   //   "anoModelo": "2017/2017",
   //   "kmtragem": "12.321 Km",
   //   "seller": {
-  //     "name": "Rui Paulo",
-  //     "phone": "(11) 98777-1097",
-  //     "email": "rui@gmail.com"
+  //     "name": "Sonhado de Barros",
+  //     "phone": "(11) 90005-7070",
+  //     "email": "sonhado@gmail.com"
+  //   }
+  // }
+
+   // {
+  //   "brand": "Citroen",
+  //   "model": "C3",
+  //   "version": "C3 1.0",
+  //   "price": "R$ 30.000,00",
+  //   "images": ["images/c1.jpg", "images/c2.jpg", "images/c3.jpg", "images/c4.jpg"],
+  //   "locadora": "LOCALIZA SEMINOVOS",
+  //   "cidade": "Sorocaba, SP",
+  //   "anoModelo": "2014/2015",
+  //   "kmtragem": "122.321 Km",
+  //   "seller": {
+  //     "name": "Maria Eduarda",
+  //     "phone": "(11) 90006-7070",
+  //     "email": "mariaeduarda@gmail.com"
   //   }
   // }
