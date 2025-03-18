@@ -1,0 +1,16 @@
+ // {
+  //   "brand": "Ferrari",
+  //   "model": "Ferrari 488",
+  //   "version": "Ferrari 488 3.9 Spider 2017",
+  //   "price": "R$ 3.299.000,00",
+  //   "images": ["images/ferra4.jpg", "images/ferra3.jpg", "images/ferra2.jpg", "images/ferra1.jpg"],
+  //   "locadora": "LOCALIZA SEMINOVOS",
+  //   "cidade": "São Paulo, SP",
+  //   "anoModelo": "2017/2017",
+  //   "kmtragem": "12.321 Km",
+  //   "seller": {
+  //     "name": "Rui Paulo",
+  //     "phone": "(11) 98777-1097",
+  //     "email": "rui@gmail.com"
+  //   }
+  // }
